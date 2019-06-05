@@ -1,7 +1,7 @@
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 20px;
     text-align: center;
     text-decoration: none;
 }
@@ -19,3 +19,16 @@
     color: white;
 }
 
+.fa-credit-card:before {
+    content: "\f09d";
+}
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav.nav-icons {
+    text-align: center;
+}
